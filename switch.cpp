@@ -1,6 +1,10 @@
 #include <fstream>
 #include <limits>
+
+#ifndef CONTROLLER_HPP
+#define CONTROLLER_HPP
 #include "controller.hpp"
+#endif
 
 using namespace std;
 // enum lights{RED=1, BLUE, YELLOW, GREEN, PINK};
